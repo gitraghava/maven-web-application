@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Releases Nexus Repository</name>
-	      <url>http://http://54.196.60.94:8081/repository/simpleapp/</url>
+	      <url>http://54.196.60.94:8081/repository/simpleapp/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
