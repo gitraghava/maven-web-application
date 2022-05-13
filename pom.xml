@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://34.204.68.127:9000/</sonar.host.url>
+		<sonar.host.url>http://184.72.99.241:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>devops123</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Releases Nexus Repository</name>
-	      <url>http://http://34.203.216.185:8081/repository/simpleapp/</url>
+	      <url>http://http://54.196.60.94:8081/repository/simpleapp/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://34.203.216.185:8081/repository/simpleappsnapshot/</url>
+	      <url>http://54.196.60.94:8081/repository/simpleappsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
